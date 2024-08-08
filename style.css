@@ -1,0 +1,7 @@
+/* style.css */
+.jumbotron {
+    background-image: url("your-background-image.jpg");
+    background-size: cover;
+}
+
+/* Add more custom styles as needed */
